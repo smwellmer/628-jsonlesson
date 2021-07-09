@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    color: rgb(52, 52, 117);
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+    border: 3px solid darkgoldenrod;
+    width: 80%;
+    margin: auto;
+}
+
+main > div{
+    margin: 6px;
+    text-align: center;
+    width: 45%;
+}
+
+.movie-title {
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: rgb(52, 52, 117);
+}
+
+.movie-release{
+    color: rgb(52, 52, 117);
+    margin-bottom: 10px;
+}
+
+main > div > img {
+    width: 80%;
+    height: 500px;
+    object-fit: cover;
+}

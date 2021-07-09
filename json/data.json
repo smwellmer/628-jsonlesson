@@ -1,0 +1,27 @@
+[
+    {
+      "title": "50 First Dates",
+      "release_year": "2004",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwMzc4MDgxNF5BMl5BanBnXkFtZTYwNjUwMzE3._V1_UY1200_CR88,0,630,1200_AL_.jpg"
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "release_year": "2005",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Harry_Potter_and_the_Goblet_of_Fire_Poster.jpg/220px-Harry_Potter_and_the_Goblet_of_Fire_Poster.jpg"
+    },
+    {
+        "title": "The Truman Show",
+        "release_year": "1998",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/cd/Trumanshow.jpg"
+    },
+    {
+        "title": "Titanic",
+        "release_year": "1997",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51mTtUGvUCL._SY445_.jpg"
+    },
+    {
+        "title": "A Series of Unfortunate Events",
+        "release_year": "2004",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/cb/A_Series_Of_Unfortunate_Events_poster.jpg"
+    }
+  ]
